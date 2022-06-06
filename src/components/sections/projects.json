@@ -9,13 +9,13 @@
     "slug": {
       "type": "string"
     },
+    "title": {
+      "type": "string"
+    },
     "projects": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::project.project"
-    },
-    "title": {
-      "type": "string"
     }
   }
 }

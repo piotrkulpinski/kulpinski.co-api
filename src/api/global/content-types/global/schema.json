@@ -86,7 +86,7 @@
       },
       "type": "text"
     },
-    "footerTitle": {
+    "contactConfirmation": {
       "pluginOptions": {
         "i18n": {
           "localized": true
@@ -94,7 +94,7 @@
       },
       "type": "string"
     },
-    "contactConfirmation": {
+    "footerTitle": {
       "pluginOptions": {
         "i18n": {
           "localized": true
