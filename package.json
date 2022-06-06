@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@strapi/plugin-seo": "^1.7.3",
+    "@strapi/provider-upload-aws-s3": "^4.1.12",
     "@strapi/strapi": "4.1.12",
     "add": "^2.0.6",
     "better-sqlite3": "7.4.6",
