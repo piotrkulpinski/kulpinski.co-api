@@ -1,4 +1,10 @@
 module.exports = ({ env }) => ({
+  sentry: {
+    enabled: true,
+    config: {
+      dsn: env('SENTRY_DSN'),
+    },
+  },
   upload: {
     config: {
       provider: 'aws-s3',
